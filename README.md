@@ -1,4 +1,5 @@
-Notes App - A Simple Note-Taking Application
+simpleNote App - A Note-Taking Application
+
 This is a React application for creating, managing, and viewing notes. It provides a user-friendly interface with features like:
 
 Note creation: Add new notes with titles and content.
